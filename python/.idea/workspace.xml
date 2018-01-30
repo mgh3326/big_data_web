@@ -2,17 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b511ef9-4a4c-4dca-af96-f090e35ee88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/coin_exchange.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/input.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/paper_money_exchange.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/question.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var.py" />
-      <change beforePath="$PROJECT_DIR$/turtle_first.py" afterPath="$PROJECT_DIR$/turtle_first.py" />
-      <change beforePath="$PROJECT_DIR$/turtle_second.py" afterPath="$PROJECT_DIR$/turtle_second.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bus.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/byte_bit.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/conditioner.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/creidt.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/int.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inturn.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap_year.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mensa.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/my.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/name.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/number_change.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/oil.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pen_pencle.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/q2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/q2_13.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/quiz4-3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/relation_operator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/right_angle_tirangle.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/river.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/str.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/time.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/what_type.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_100홀수의합순서도.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/Penguins.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/Penguins2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/apple.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/html 5 보고서 1_29_제출_문광현.pptx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/mango.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/pre.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/순서도과제.pptx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1일차실습문제.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/1장 연습문제.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/20180125 문광현.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/2장연습문제.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/[Content_Types].xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/_rels/presentation.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/media/image1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/media/image2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesMasters/_rels/notesMaster1.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesMasters/notesMaster1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/_rels/notesSlide1.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/_rels/notesSlide2.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/notesSlide1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/notesSlide2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/presProps.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/presentation.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout1.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout10.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout11.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout2.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout3.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout4.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout5.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout6.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout7.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout8.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout9.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout9.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideMasters/_rels/slideMaster1.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideMasters/slideMaster1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide1.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide2.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide3.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide4.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide5.xml.rels" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/tableStyles.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/theme/theme1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/theme/theme2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/viewProps.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/unicode_table.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/~$2장연습문제.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/문광현 소공_답2_문광현_오전문제.ppt.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/소공_답2_문광현.ppt.pptx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/소공_답2_문광현_오전문제.ppt.pptx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/순서도과제.pptx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../연습문제/유스케이스문제.docx" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,21 +111,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$turtle_second.coverage" NAME="turtle_second Coverage Results" MODIFIED="1517278306096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$question.coverage" NAME="question Coverage Results" MODIFIED="1517288937019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1517291437146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$creidt.coverage" NAME="creidt Coverage Results" MODIFIED="1517295332108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1517298290772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$input.coverage" NAME="input Coverage Results" MODIFIED="1517279416062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$coin_exchange.coverage" NAME="coin_exchange Coverage Results" MODIFIED="1517287583167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$turtle_first.coverage" NAME="turtle_first Coverage Results" MODIFIED="1517278996721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$var.coverage" NAME="var Coverage Results" MODIFIED="1517286280445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$paper_money_exchange.coverage" NAME="paper_money_exchange Coverage Results" MODIFIED="1517288687132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1517288691367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$window.coverage" NAME="window Coverage Results" MODIFIED="1517280110859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$q2_13.coverage" NAME="q2_13 Coverage Results" MODIFIED="1517299001269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$river.coverage" NAME="river Coverage Results" MODIFIED="1517295520649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$output.coverage" NAME="output Coverage Results" MODIFIED="1517287205022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$byte_bit.coverage" NAME="byte_bit Coverage Results" MODIFIED="1517293218056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$turtle_first.coverage" NAME="turtle_first Coverage Results" MODIFIED="1517291684406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$paper_money_exchange.coverage" NAME="paper_money_exchange Coverage Results" MODIFIED="1517288687132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$bus.coverage" NAME="bus Coverage Results" MODIFIED="1517295453427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$oil.coverage" NAME="oil Coverage Results" MODIFIED="1517295298831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$pen_pencle.coverage" NAME="pen_pencle Coverage Results" MODIFIED="1517298274403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$right_angle_tirangle.coverage" NAME="right_angle_tirangle Coverage Results" MODIFIED="1517299007310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$turtle_second.coverage" NAME="turtle_second Coverage Results" MODIFIED="1517291689744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$int.coverage" NAME="int Coverage Results" MODIFIED="1517294000497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$quiz4_3.coverage" NAME="quiz4-3 Coverage Results" MODIFIED="1517294322060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$what_type.coverage" NAME="what_type Coverage Results" MODIFIED="1517296902810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$var.coverage" NAME="var Coverage Results" MODIFIED="1517286280445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$relation_operator.coverage" NAME="relation_operator Coverage Results" MODIFIED="1517289797224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$str.coverage" NAME="str Coverage Results" MODIFIED="1517293728902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1517288691367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$number_change.coverage" NAME="number_change Coverage Results" MODIFIED="1517297502850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$window.coverage" NAME="window Coverage Results" MODIFIED="1517280110859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$conditioner.coverage" NAME="conditioner Coverage Results" MODIFIED="1517296895568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$question.coverage" NAME="question Coverage Results" MODIFIED="1517289792045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1517290837793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$mensa.coverage" NAME="mensa Coverage Results" MODIFIED="1517294806457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$time.coverage" NAME="time Coverage Results" MODIFIED="1517299566772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="var.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/var.py">
+      <file leaf-file-name="what_type.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/what_type.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -45,51 +164,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="output.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output.py">
+      <file leaf-file-name="q2_13.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q2_13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coin_exchange.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coin_exchange.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paper_money_exchange.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paper_money_exchange.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="question.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/question.py">
+      <file leaf-file-name="pen_pencle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pen_pencle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="right_angle_tirangle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/right_angle_tirangle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="name.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/name.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="number_change.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/number_change.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -104,6 +233,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>or</find>
+      <find>iq</find>
+      <find>score</find>
+      <find>&gt;&gt;&gt;</find>
+      <find>pencle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>and</replace>
+      <replace>score</replace>
+      <replace>amouont</replace>
+      <replace>amount</replace>
+      <replace>print(</replace>
+      <replace>pencil</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -111,7 +257,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/turtle_first.py" />
-        <option value="$PROJECT_DIR$/turtle_second.py" />
         <option value="$PROJECT_DIR$/input.py" />
         <option value="$PROJECT_DIR$/window.py" />
         <option value="$PROJECT_DIR$/var.py" />
@@ -120,8 +265,33 @@
         <option value="$PROJECT_DIR$/coin_exchange.py" />
         <option value="$PROJECT_DIR$/paper_money_exchange.py" />
         <option value="$PROJECT_DIR$/q1.py" />
-        <option value="$PROJECT_DIR$/q2.py" />
         <option value="$PROJECT_DIR$/question.py" />
+        <option value="$PROJECT_DIR$/relation_operator.py" />
+        <option value="$PROJECT_DIR$/leap_year.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/turtle_second.py" />
+        <option value="$PROJECT_DIR$/byte_bit.py" />
+        <option value="$PROJECT_DIR$/str.py" />
+        <option value="$PROJECT_DIR$/int.py" />
+        <option value="$PROJECT_DIR$/quiz4-3.py" />
+        <option value="$PROJECT_DIR$/my.py" />
+        <option value="$PROJECT_DIR$/mensa.py" />
+        <option value="$PROJECT_DIR$/intern.py" />
+        <option value="$PROJECT_DIR$/inturn.py" />
+        <option value="$PROJECT_DIR$/oil.py" />
+        <option value="$PROJECT_DIR$/creidt.py" />
+        <option value="$PROJECT_DIR$/bus.py" />
+        <option value="$PROJECT_DIR$/river.py" />
+        <option value="$PROJECT_DIR$/aircondination.py" />
+        <option value="$PROJECT_DIR$/conditioner.py" />
+        <option value="$PROJECT_DIR$/what_type.py" />
+        <option value="$PROJECT_DIR$/number_change.py" />
+        <option value="$PROJECT_DIR$/q2.py" />
+        <option value="$PROJECT_DIR$/q2_13.py" />
+        <option value="$PROJECT_DIR$/pen_pencle.py" />
+        <option value="$PROJECT_DIR$/right_angle_tirangle.py" />
+        <option value="$PROJECT_DIR$/name.py" />
+        <option value="$PROJECT_DIR$/time.py" />
       </list>
     </option>
   </component>
@@ -132,10 +302,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="47" />
-    <option name="width" value="976" />
-    <option name="height" value="1044" />
+    <option name="x" value="640" />
+    <option name="width" value="640" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -155,8 +324,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +335,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,6 +344,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/student/Dropbox/빅데이터웹개발자료/github/python/int.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -193,8 +363,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.question">
-    <configuration name="coin_exchange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.time">
+    <configuration name="pen_pencle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -207,13 +377,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coin_exchange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pen_pencle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="q2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -226,13 +396,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="paper_money_exchange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="q2_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -245,13 +415,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paper_money_exchange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q2_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="right_angle_tirangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -264,13 +434,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/right_angle_tirangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="question" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -283,26 +453,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.output" />
-      <item index="1" class="java.lang.String" itemvalue="Python.coin_exchange" />
-      <item index="2" class="java.lang.String" itemvalue="Python.paper_money_exchange" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.question" />
+      <item index="0" class="java.lang.String" itemvalue="Python.q2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pen_pencle" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q2_13" />
+      <item index="3" class="java.lang.String" itemvalue="Python.right_angle_tirangle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.time" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.question" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.paper_money_exchange" />
-        <item index="3" class="java.lang.String" itemvalue="Python.coin_exchange" />
-        <item index="4" class="java.lang.String" itemvalue="Python.output" />
+        <item index="0" class="java.lang.String" itemvalue="Python.time" />
+        <item index="1" class="java.lang.String" itemvalue="Python.right_angle_tirangle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.q2_13" />
+        <item index="3" class="java.lang.String" itemvalue="Python.q2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pen_pencle" />
       </list>
     </recent_temporary>
   </component>
@@ -323,22 +493,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="47" width="976" height="1044" extended-state="0" />
-    <editor active="true" />
+    <frame x="640" y="0" width="640" height="994" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28356606" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2996595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25320512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -359,13 +528,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/quiz4-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mensa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inturn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creidt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/river.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditioner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/turtle_first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -373,9 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -383,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -391,9 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -401,9 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -411,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,29 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/turtle_first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/turtle_second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -451,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -459,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -467,23 +675,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tets.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tets.sh" />
     <entry file="file://$PROJECT_DIR$/output.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -499,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -507,14 +704,205 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relation_operator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/question.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap_year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle_first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle_second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/byte_bit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/int.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz4-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mensa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inturn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creidt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/river.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditioner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/what_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q2_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pen_pencle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/right_angle_tirangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
