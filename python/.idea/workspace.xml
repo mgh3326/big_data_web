@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b511ef9-4a4c-4dca-af96-f090e35ee88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/q1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/q2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/q3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/q4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/q5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/q6.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/Regular_expression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/Regular_expression_import_re.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/class_constructor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/class_first.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/oop.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/oop2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/oop3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/student.py" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_100홀수의합순서도.JPG" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현.zip" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/Penguins.png" afterPath="" />
@@ -85,9 +87,13 @@
       <change beforePath="$PROJECT_DIR$/../html연습문제/순서도과제.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/유스케이스문제.docx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/20180131_문광현.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/20180201 문광현.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/20180202 문광현.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_5/1교시아침문제.pptx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_5/q1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_5/q2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_5/q3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_5/q4.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_5/q5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2_5/q6.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제2.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/거북이2문제.pptx" afterPath="" />
@@ -201,11 +207,12 @@
     <SUITE FILE_PATH="coverage/python$what_type.coverage" NAME="what_type Coverage Results" MODIFIED="1517296902810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$p_sum.coverage" NAME="p_sum Coverage Results" MODIFIED="1517530773455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2" />
     <SUITE FILE_PATH="coverage/python$var.coverage" NAME="var Coverage Results" MODIFIED="1517286280445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$q4.coverage" NAME="q4 Coverage Results" MODIFIED="1517790886630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
+    <SUITE FILE_PATH="coverage/python$q4.coverage" NAME="q4 Coverage Results" MODIFIED="1517804817724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5/first" />
     <SUITE FILE_PATH="coverage/python$else.coverage" NAME="else Coverage Results" MODIFIED="1517382753630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
     <SUITE FILE_PATH="coverage/python$multiplication_table3.coverage" NAME="multiplication_table3 Coverage Results" MODIFIED="1517463799523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
     <SUITE FILE_PATH="coverage/python$string_upper.coverage" NAME="string_upper Coverage Results" MODIFIED="1517358600249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31" />
     <SUITE FILE_PATH="coverage/python$m_p3.coverage" NAME="m_p3 Coverage Results" MODIFIED="1517445232992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
+    <SUITE FILE_PATH="coverage/python$Regular_expression.coverage" NAME="Regular_expression Coverage Results" MODIFIED="1517808439225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$p5_1.coverage" NAME="p5_1 Coverage Results" MODIFIED="1517458159596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
     <SUITE FILE_PATH="coverage/python$calc.coverage" NAME="calc제출용 Coverage Results" MODIFIED="1517539242456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2" />
     <SUITE FILE_PATH="coverage/python$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1517790222273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
@@ -232,9 +239,12 @@
     <SUITE FILE_PATH="coverage/python$m_q1.coverage" NAME="m_q1 Coverage Results" MODIFIED="1517443836978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$while_q_4_for.coverage" NAME="while_q_4_for Coverage Results" MODIFIED="1517469249317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1_제출" />
     <SUITE FILE_PATH="coverage/python$for_sum.coverage" NAME="for_sum Coverage Results" MODIFIED="1517452928411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
+    <SUITE FILE_PATH="coverage/python$oop2.coverage" NAME="oop2 Coverage Results" MODIFIED="1517798240936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
+    <SUITE FILE_PATH="coverage/python$class_first.coverage" NAME="class_first Coverage Results" MODIFIED="1517794107118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$p4.coverage" NAME="p4 Coverage Results" MODIFIED="1517545177319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2_afternoon" />
     <SUITE FILE_PATH="coverage/python$q10.coverage" NAME="q10 Coverage Results" MODIFIED="1517372836296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
     <SUITE FILE_PATH="coverage/python$p5_4.coverage" NAME="p5_4 Coverage Results" MODIFIED="1517458570640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
+    <SUITE FILE_PATH="coverage/python$class_constructor.coverage" NAME="class_constructor Coverage Results" MODIFIED="1517797117344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1517380108364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
     <SUITE FILE_PATH="coverage/python$11h_p1.coverage" NAME="11h_p1 Coverage Results" MODIFIED="1517451012344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$coffe_practice_.coverage" NAME="coffe_practice_제출용 Coverage Results" MODIFIED="1517535586327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2" />
@@ -250,6 +260,7 @@
     <SUITE FILE_PATH="coverage/python$multiplication_table.coverage" NAME="multiplication_table Coverage Results" MODIFIED="1517462853741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
     <SUITE FILE_PATH="coverage/python$list.coverage" NAME="list Coverage Results" MODIFIED="1517379179475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
     <SUITE FILE_PATH="coverage/python$meta_chracter.coverage" NAME="meta-chracter Coverage Results" MODIFIED="1517357642080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31" />
+    <SUITE FILE_PATH="coverage/python$oop.coverage" NAME="oop Coverage Results" MODIFIED="1517797948691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$score.coverage" NAME="score Coverage Results" MODIFIED="1517383465884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
     <SUITE FILE_PATH="coverage/python$while_q_7.coverage" NAME="while_q_7 Coverage Results" MODIFIED="1517469533258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1_제출" />
     <SUITE FILE_PATH="coverage/python$pen_pencle.coverage" NAME="pen_pencle Coverage Results" MODIFIED="1517298274403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -265,7 +276,9 @@
     <SUITE FILE_PATH="coverage/python$question.coverage" NAME="question Coverage Results" MODIFIED="1517289792045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$mensa.coverage" NAME="mensa Coverage Results" MODIFIED="1517294806457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$un_list.coverage" NAME="un_list Coverage Results" MODIFIED="1517531111284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2" />
+    <SUITE FILE_PATH="coverage/python$Regular_express_href.coverage" NAME="Regular_express_href Coverage Results" MODIFIED="1517809544773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$p7.coverage" NAME="p7 Coverage Results" MODIFIED="1517459325115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
+    <SUITE FILE_PATH="coverage/python$oop3.coverage" NAME="oop3 Coverage Results" MODIFIED="1517798490085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$creidt.coverage" NAME="creidt Coverage Results" MODIFIED="1517295332108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$m_p1.coverage" NAME="m_p1 Coverage Results" MODIFIED="1517447979616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$coin_exchange.coverage" NAME="coin_exchange Coverage Results" MODIFIED="1517287583167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -273,6 +286,7 @@
     <SUITE FILE_PATH="coverage/python$global.coverage" NAME="global Coverage Results" MODIFIED="1517550145956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2_afternoon" />
     <SUITE FILE_PATH="coverage/python$p_sum2.coverage" NAME="p_sum2 Coverage Results" MODIFIED="1517532074604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2" />
     <SUITE FILE_PATH="coverage/python$random_num.coverage" NAME="random_num Coverage Results" MODIFIED="1517448564542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
+    <SUITE FILE_PATH="coverage/python$Regular_expression_import_re.coverage" NAME="Regular_expression_import_re Coverage Results" MODIFIED="1517808700494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$dictionary_for.coverage" NAME="dictionary_for Coverage Results" MODIFIED="1517380612891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
     <SUITE FILE_PATH="coverage/python$paper_money_exchange.coverage" NAME="paper_money_exchange Coverage Results" MODIFIED="1517288687132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$bus.coverage" NAME="bus Coverage Results" MODIFIED="1517295453427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -299,71 +313,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="추가문제.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_2_afternoon/추가문제.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="26" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_5/q1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_5/q2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_5/q3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="q4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_5/q4.py">
+        <entry file="file://$PROJECT_DIR$/2_5/first/q4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="589">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_5/q5.py">
+      <file leaf-file-name="Regular_expression.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_5/Regular_expression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+            <state relative-caret-position="38">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q6.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_5/q6.py">
+      <file leaf-file-name="Regular_expression_import_re.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_5/Regular_expression_import_re.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Regular_express_href.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_5/Regular_express_href.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Regular_express_pizza.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_5/Regular_express_pizza.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -390,6 +384,8 @@
       <find>시험 문제로 가능합니다.</find>
       <find>%</find>
       <find>step</find>
+      <find>material</find>
+      <find>self</find>
     </findStrings>
     <replaceStrings>
       <replace>and</replace>
@@ -401,6 +397,8 @@
       <replace>list_ex1 will be tested</replace>
       <replace>/</replace>
       <replace>num</replace>
+      <replace>meterial</replace>
+      <replace>student</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -409,16 +407,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2_1 _afternoon/multiplication_table3.py" />
-        <option value="$PROJECT_DIR$/2_1 _afternoon/while_sum_input.py" />
-        <option value="$PROJECT_DIR$/2_1 _afternoon/loop.py" />
-        <option value="$PROJECT_DIR$/2_1 _afternoon/break.py" />
-        <option value="$PROJECT_DIR$/2_1 _afternoon/not_3_multiple.py" />
-        <option value="$PROJECT_DIR$/2_1_제출/while_q_1.py" />
-        <option value="$PROJECT_DIR$/2_1_제출/while_q_1_while.py" />
-        <option value="$PROJECT_DIR$/2_1_제출/while_q_2_while.py" />
-        <option value="$PROJECT_DIR$/2_1_제출/while_q_3_for.py" />
-        <option value="$PROJECT_DIR$/2_1_제출/while_q_2_for.py" />
         <option value="$PROJECT_DIR$/2_1_제출/while_q_4_for.py" />
         <option value="$PROJECT_DIR$/2_1_제출/while_q_5.py" />
         <option value="$PROJECT_DIR$/2_1_제출/while_q_6.py" />
@@ -460,6 +448,16 @@
         <option value="$PROJECT_DIR$/2_5/q4.py" />
         <option value="$PROJECT_DIR$/2_5/q5.py" />
         <option value="$PROJECT_DIR$/2_5/q6.py" />
+        <option value="$PROJECT_DIR$/2_5/class_first.py" />
+        <option value="$PROJECT_DIR$/2_5/class_constructor.py" />
+        <option value="$PROJECT_DIR$/2_5/oop.py" />
+        <option value="$PROJECT_DIR$/2_5/oop2.py" />
+        <option value="$PROJECT_DIR$/2_5/student.py" />
+        <option value="$PROJECT_DIR$/2_5/oop3.py" />
+        <option value="$PROJECT_DIR$/2_5/first/q4.py" />
+        <option value="$PROJECT_DIR$/2_5/Regular_expression.py" />
+        <option value="$PROJECT_DIR$/2_5/Regular_expression_import_re.py" />
+        <option value="$PROJECT_DIR$/2_5/Regular_express_href.py" />
       </list>
     </option>
   </component>
@@ -470,7 +468,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
+    <option name="x" value="458" />
+    <option name="y" value="118" />
     <option name="width" value="640" />
     <option name="height" value="994" />
   </component>
@@ -492,22 +491,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_2_afternoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_2제출" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
@@ -519,7 +509,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -550,8 +539,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.q6">
-    <configuration name="q2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Regular_express_href">
+    <configuration name="Regular_express_href" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -564,13 +553,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/q2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/Regular_express_href.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="q3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Regular_expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -583,7 +572,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/q3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/Regular_expression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Regular_expression_import_re" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/Regular_expression_import_re.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="oop3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/oop3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -596,70 +623,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5/first" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/q4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="q5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/q5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="q6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/q6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/first/q4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.q2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.q6" />
+      <item index="0" class="java.lang.String" itemvalue="Python.oop3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Regular_expression" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Regular_expression_import_re" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Regular_express_href" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.q6" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.q4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.q2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Regular_express_href" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Regular_expression_import_re" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Regular_expression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.q4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.oop3" />
       </list>
     </recent_temporary>
   </component>
@@ -718,47 +707,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_1 _afternoon/loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_1 _afternoon/break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_1 _afternoon/not_3_multiple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_1 _afternoon/multiplication_table2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_1 _afternoon/double_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_1_while.py" />
-    <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_2_while.py" />
-    <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_1_for.py" />
-    <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_3_for.py" />
-    <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_2_for.py" />
-    <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_4_for.py" />
     <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_5.py" />
     <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_6.py" />
     <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_7.py" />
@@ -893,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,7 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,62 +899,106 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_5/q1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_5/q2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/q1.py" />
+    <entry file="file://$PROJECT_DIR$/2_5/q2.py" />
+    <entry file="file://$PROJECT_DIR$/2_5/q5.py" />
+    <entry file="file://$PROJECT_DIR$/2_5/q4.py" />
+    <entry file="file://$PROJECT_DIR$/2_5/q3.py" />
+    <entry file="file://$PROJECT_DIR$/2_5/q6.py" />
     <entry file="file://$PROJECT_DIR$/2_2_afternoon/추가문제.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
+          <caret line="26" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_5/q5.py">
+    <entry file="file://$PROJECT_DIR$/2_5/class_constructor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_5/q4.py">
+    <entry file="file://$PROJECT_DIR$/2_5/oop2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="152">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_5/q3.py">
+    <entry file="file://$PROJECT_DIR$/2_5/class_first.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_5/q6.py">
+    <entry file="file://$PROJECT_DIR$/2_5/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/oop3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="77" lean-forward="false" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/oop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/first/q4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/Regular_expression_import_re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/Regular_express_href.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/Regular_express_pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/Regular_expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>

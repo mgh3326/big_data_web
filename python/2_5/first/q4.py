@@ -27,7 +27,7 @@ while True:
             orange_num += num
             total += orange_price * num
 if grape_num >= 3:
-    total *= 0.7
+    total *= 0.9
 orange_num += int(orange_num / 10) * 2
 
 print("귀하는 ", end="")
