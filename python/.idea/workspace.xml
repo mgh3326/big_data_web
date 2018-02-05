@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b511ef9-4a4c-4dca-af96-f090e35ee88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/Regular_expression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/Regular_expression_import_re.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/class_constructor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/class_first.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/oop.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/oop2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/oop3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_5/student.py" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_100홀수의합순서도.JPG" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현.zip" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/Penguins.png" afterPath="" />
@@ -87,13 +79,6 @@
       <change beforePath="$PROJECT_DIR$/../html연습문제/순서도과제.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/유스케이스문제.docx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/2_5/1교시아침문제.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2_5/q1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2_5/q2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2_5/q3.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2_5/q4.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2_5/q5.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2_5/q6.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제2.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/거북이2문제.pptx" afterPath="" />
@@ -187,6 +172,7 @@
     <SUITE FILE_PATH="coverage/python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1517552753876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2" />
     <SUITE FILE_PATH="coverage/python$m_q_4.coverage" NAME="m_q_4 Coverage Results" MODIFIED="1517445341734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$2.coverage" NAME="마지막실습2 Coverage Results" MODIFIED="1517384332381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
+    <SUITE FILE_PATH="coverage/python$13.coverage" NAME="1월3일정규식실습 Coverage Results" MODIFIED="1517817661730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$break.coverage" NAME="break Coverage Results" MODIFIED="1517467670985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
     <SUITE FILE_PATH="coverage/python$for_sum_input.coverage" NAME="for_sum_input Coverage Results" MODIFIED="1517465602540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
     <SUITE FILE_PATH="coverage/python$river.coverage" NAME="river Coverage Results" MODIFIED="1517295520649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -317,17 +303,27 @@
         <entry file="file://$PROJECT_DIR$/2_5/first/q4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="589">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Regular_expression.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Regular_expression.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_5/Regular_expression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1월3일정규식실습.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_5/1월3일정규식실습.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="69" column="59" lean-forward="false" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -337,7 +333,7 @@
         <entry file="file://$PROJECT_DIR$/2_5/Regular_expression_import_re.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -347,7 +343,7 @@
         <entry file="file://$PROJECT_DIR$/2_5/Regular_express_href.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -407,7 +403,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2_1_제출/while_q_4_for.py" />
         <option value="$PROJECT_DIR$/2_1_제출/while_q_5.py" />
         <option value="$PROJECT_DIR$/2_1_제출/while_q_6.py" />
         <option value="$PROJECT_DIR$/2_1_제출/while_q_7.py" />
@@ -458,6 +453,7 @@
         <option value="$PROJECT_DIR$/2_5/Regular_expression.py" />
         <option value="$PROJECT_DIR$/2_5/Regular_expression_import_re.py" />
         <option value="$PROJECT_DIR$/2_5/Regular_express_href.py" />
+        <option value="$PROJECT_DIR$/2_5/1월3일정규식실습.py" />
       </list>
     </option>
   </component>
@@ -491,7 +487,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -508,6 +503,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -539,7 +535,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Regular_express_href">
+  <component name="RunManager" selected="Python.1월3일정규식실습">
+    <configuration name="1월3일정규식실습" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/1월3일정규식실습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Regular_express_href" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -597,25 +612,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="oop3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_5/oop3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="q4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -636,19 +632,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.oop3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Regular_expression" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Regular_expression_import_re" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Regular_express_href" />
+      <item index="0" class="java.lang.String" itemvalue="Python.q4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Regular_expression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Regular_expression_import_re" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Regular_express_href" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1월3일정규식실습" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Regular_express_href" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Regular_expression_import_re" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Regular_expression" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.oop3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1월3일정규식실습" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Regular_express_href" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Regular_expression_import_re" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Regular_expression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.q4" />
       </list>
     </recent_temporary>
   </component>
@@ -670,13 +666,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2831661" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2831661" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13359375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -707,7 +702,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_5.py" />
     <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_6.py" />
     <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_7.py" />
     <entry file="file://$PROJECT_DIR$/2_1_제출/while_q_8.py" />
@@ -919,7 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,7 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="77" lean-forward="false" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,14 +948,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2_5/first/q4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -974,7 +962,7 @@
     <entry file="file://$PROJECT_DIR$/2_5/Regular_expression_import_re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -982,7 +970,7 @@
     <entry file="file://$PROJECT_DIR$/2_5/Regular_express_href.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -997,8 +985,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2_5/Regular_expression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_5/1월3일정규식실습.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="69" column="59" lean-forward="false" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
           <folding />
         </state>
       </provider>
