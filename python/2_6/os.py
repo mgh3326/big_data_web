@@ -2,4 +2,4 @@ import os
 
 print(os)
 print(os.getcwd())
-os.remove("oh.txt")
+print(os.path.getsize("C:\Python36"))
