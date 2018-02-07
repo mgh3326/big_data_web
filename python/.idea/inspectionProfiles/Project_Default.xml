@@ -6,6 +6,7 @@
         <list>
           <option value="str.__sub__" />
           <option value="dict.iteritems" />
+          <option value="urllib.*" />
         </list>
       </option>
     </inspection_tool>
