@@ -50,7 +50,7 @@ def get_contents_from_html():
     link_tags = re.findall("<link>[^<]+</link>", html.decode('utf-8'))
     titles = extract_text_in_tags(title_tags, tagname="title")
     links = extract_text_in_tags(link_tags, tagname="link")
-    f = open("image4.html", "w")
+    f = open("image4.html", "w", encoding='utf-8')
     f.write("<html><body>")
     print(titles)
     for i in range(1, len(titles)):

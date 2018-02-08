@@ -32,22 +32,27 @@ def fetch_contents_from_url():
     req = urllib.request.Request(url, headers=headers)
     f = urllib.request.urlopen(req)
     html = f.read()
+    # print(html)
     return html
 
 
 def extract_text_in_tags(tags, tagname="title"):
     txt = []
     reg = "[^<" + tagname + ">][^<]+"
-    print(tags)
+    # print(reg)
     for tag in tags:
         txt.append(re.search(reg, tag).group())
+    # print(txt)
     return txt
 
 
 def get_contents_from_html():
     html = fetch_contents_from_url()
+    # print(html)
     title_tags = re.findall("<title>[^<]+</title>", html.decode('utf-8'))
     link_tags = re.findall("<link>[^<]+</link>", html.decode('utf-8'))
+    # print(title_tags)
+    # print(link_tags)
     titles = extract_text_in_tags(title_tags, tagname="title")
     links = extract_text_in_tags(link_tags, tagname="link")
     f = open("image4.html", "w")

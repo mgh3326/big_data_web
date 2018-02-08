@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b511ef9-4a4c-4dca-af96-f090e35ee88f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_7_afternoon/open_api_image.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2_8/tweepy_practice.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/r.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_7제출/이미지/image4.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_8/oh.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_8/oh2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_8/seoul.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_8/seoul_test.py" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_100홀수의합순서도.JPG" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현.zip" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/Penguins.png" afterPath="" />
@@ -82,6 +84,9 @@
       <change beforePath="$PROJECT_DIR$/../html연습문제/순서도과제.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../html연습문제/유스케이스문제.docx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/2_7_afternoon/image4.html" afterPath="$PROJECT_DIR$/2_7_afternoon/image4.html" />
+      <change beforePath="$PROJECT_DIR$/2_7_afternoon/open_api_image.py" afterPath="$PROJECT_DIR$/2_7_afternoon/open_api_image.py" />
+      <change beforePath="$PROJECT_DIR$/2_7제출/이미지/open_api_image.py" afterPath="$PROJECT_DIR$/2_7제출/이미지/open_api_image.py" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제2.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../python기본퀴즈/거북이2문제.pptx" afterPath="" />
@@ -211,7 +216,7 @@
     <SUITE FILE_PATH="coverage/python$string_upper.coverage" NAME="string_upper Coverage Results" MODIFIED="1517358600249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31" />
     <SUITE FILE_PATH="coverage/python$m_p3.coverage" NAME="m_p3 Coverage Results" MODIFIED="1517445232992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$p12.coverage" NAME="p12 Coverage Results" MODIFIED="1517878036706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6" />
-    <SUITE FILE_PATH="coverage/python$open_api_image.coverage" NAME="open_api_image Coverage Results" MODIFIED="1517986283965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_7_afternoon" />
+    <SUITE FILE_PATH="coverage/python$open_api_image.coverage" NAME="open_api_image Coverage Results" MODIFIED="1518068446035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_7제출/이미지" />
     <SUITE FILE_PATH="coverage/python$q9.coverage" NAME="q9 Coverage Results" MODIFIED="1517902023492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6_afternoon/7교시" />
     <SUITE FILE_PATH="coverage/python$Regular_expression.coverage" NAME="Regular_expression Coverage Results" MODIFIED="1517808439225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$p5_1.coverage" NAME="p5_1 Coverage Results" MODIFIED="1517458159596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
@@ -285,6 +290,7 @@
     <SUITE FILE_PATH="coverage/python$relation_operator.coverage" NAME="relation_operator Coverage Results" MODIFIED="1517289797224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$11h_p2.coverage" NAME="11h_p2 Coverage Results" MODIFIED="1517452790816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$double_for.coverage" NAME="double_for Coverage Results" MODIFIED="1517463069770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
+    <SUITE FILE_PATH="coverage/python$seoul_test.coverage" NAME="seoul_test Coverage Results" MODIFIED="1518064200079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_8" />
     <SUITE FILE_PATH="coverage/python$open_api_2.coverage" NAME="open_api_2 Coverage Results" MODIFIED="1517981531730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_7_afternoon" />
     <SUITE FILE_PATH="coverage/python$window.coverage" NAME="window Coverage Results" MODIFIED="1517280110859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$upper_lower.coverage" NAME="upper_lower Coverage Results" MODIFIED="1517365424119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31" />
@@ -296,6 +302,7 @@
     <SUITE FILE_PATH="coverage/python$p7.coverage" NAME="p7 Coverage Results" MODIFIED="1517877072147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6" />
     <SUITE FILE_PATH="coverage/python$oop3.coverage" NAME="oop3 Coverage Results" MODIFIED="1517798490085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$p11.coverage" NAME="p11 Coverage Results" MODIFIED="1517879284714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6" />
+    <SUITE FILE_PATH="coverage/python$open_api_image__1_.coverage" NAME="open_api_image (1) Coverage Results" MODIFIED="1518068085160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_7_afternoon" />
     <SUITE FILE_PATH="coverage/python$q8.coverage" NAME="q8 Coverage Results" MODIFIED="1517892582054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6_afternoon" />
     <SUITE FILE_PATH="coverage/python$creidt.coverage" NAME="creidt Coverage Results" MODIFIED="1517295332108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$m_p1.coverage" NAME="m_p1 Coverage Results" MODIFIED="1517447979616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
@@ -304,6 +311,7 @@
     <SUITE FILE_PATH="coverage/python$q2_13.coverage" NAME="q2_13 Coverage Results" MODIFIED="1517299001269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$global.coverage" NAME="global Coverage Results" MODIFIED="1517550145956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2_afternoon" />
     <SUITE FILE_PATH="coverage/python$p_sum2.coverage" NAME="p_sum2 Coverage Results" MODIFIED="1517532074604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2" />
+    <SUITE FILE_PATH="coverage/python$seoul.coverage" NAME="seoul Coverage Results" MODIFIED="1518063885050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_8" />
     <SUITE FILE_PATH="coverage/python$web_test.coverage" NAME="web_test Coverage Results" MODIFIED="1517981428583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_7_afternoon" />
     <SUITE FILE_PATH="coverage/python$random_num.coverage" NAME="random_num Coverage Results" MODIFIED="1517448564542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$Regular_expression_import_re.coverage" NAME="Regular_expression_import_re Coverage Results" MODIFIED="1517808700494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
@@ -312,6 +320,7 @@
     <SUITE FILE_PATH="coverage/python$paper_money_exchange.coverage" NAME="paper_money_exchange Coverage Results" MODIFIED="1517288687132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$bus.coverage" NAME="bus Coverage Results" MODIFIED="1517295453427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1517544915812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2_afternoon" />
+    <SUITE FILE_PATH="coverage/python$open_api_image_produce.coverage" NAME="open_api_image_produce Coverage Results" MODIFIED="1518066897567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_7제출/이미지" />
     <SUITE FILE_PATH="coverage/python$while_q_3_for.coverage" NAME="while_q_3_for Coverage Results" MODIFIED="1517469247597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1_제출" />
     <SUITE FILE_PATH="coverage/python$binary_practice.coverage" NAME="binary_practice Coverage Results" MODIFIED="1517897851469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6_afternoon" />
     <SUITE FILE_PATH="coverage/python$quiz4_3.coverage" NAME="quiz4-3 Coverage Results" MODIFIED="1517294322060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -336,21 +345,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="q1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_7_afternoon/q1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="open_api_image.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_7_afternoon/open_api_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="7" column="60" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+            <state relative-caret-position="426">
+              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -358,38 +357,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="r.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/r.py">
+      <file leaf-file-name="seoul.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_8/seoul.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="40" column="59" lean-forward="false" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_7제출/이미지/image4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tweepy_practice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_8/tweepy_practice.py">
+      <file leaf-file-name="open_api_image.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_7제출/이미지/open_api_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state relative-caret-position="96">
+              <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seoul_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_8/seoul_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oh2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_8/oh2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tweet.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_8/tweet.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2185">
-              <caret line="0" column="20657" lean-forward="false" selection-start-line="0" selection-start-column="20657" selection-end-line="0" selection-end-column="20657" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_7_afternoon/image.html">
+      <file leaf-file-name="oh.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_8/oh.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -401,8 +426,18 @@
       <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/Python36/Lib/urllib/request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3743">
-              <caret line="222" column="0" lean-forward="false" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+            <state relative-caret-position="-1235">
+              <caret line="1319" column="0" lean-forward="false" selection-start-line="1319" selection-start-column="0" selection-end-line="1319" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python36/Lib/http/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="1284" column="0" lean-forward="false" selection-start-line="1284" selection-start-column="0" selection-end-line="1284" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -439,6 +474,11 @@
       <find>title</find>
       <find>템포</find>
       <find>fullURL</find>
+      <find>detail_url</find>
+      <find>pclist</find>
+      <find>find_all</find>
+      <find>listbox</find>
+      <find>html</find>
     </findStrings>
     <replaceStrings>
       <replace>and</replace>
@@ -466,10 +506,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2_6/p7.py" />
-        <option value="$PROJECT_DIR$/2_6/p9.py" />
-        <option value="$PROJECT_DIR$/2_6/p10.py" />
-        <option value="$PROJECT_DIR$/2_6/p12.py" />
         <option value="$PROJECT_DIR$/2_6/p11.py" />
         <option value="$PROJECT_DIR$/2_6/urlib_practice.py" />
         <option value="$PROJECT_DIR$/2_6/urlib_korean.py" />
@@ -514,9 +550,13 @@
         <option value="$PROJECT_DIR$/2_7_afternoon/open_api.py" />
         <option value="$PROJECT_DIR$/2_7_afternoon/web_test.py" />
         <option value="$PROJECT_DIR$/2_7_afternoon/open_api_2.py" />
-        <option value="$PROJECT_DIR$/2_7_afternoon/open_api_image.py" />
         <option value="$PROJECT_DIR$/r.py" />
         <option value="$PROJECT_DIR$/2_8/tweepy_practice.py" />
+        <option value="$PROJECT_DIR$/2_8/seoul.py" />
+        <option value="$PROJECT_DIR$/2_8/seoul_test.py" />
+        <option value="$PROJECT_DIR$/2_7제출/이미지/open_api_image_produce.py" />
+        <option value="$PROJECT_DIR$/2_7_afternoon/open_api_image.py" />
+        <option value="$PROJECT_DIR$/2_7제출/이미지/open_api_image.py" />
       </list>
     </option>
   </component>
@@ -527,8 +567,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="471" />
-    <option name="y" value="82" />
+    <option name="x" value="379" />
+    <option name="y" value="-8" />
     <option name="width" value="640" />
     <option name="height" value="994" />
   </component>
@@ -560,7 +600,28 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="2_7_afternoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="2_7제출" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="2_7제출" type="462c0819:PsiDirectoryNode" />
+              <item name="이미지" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="2_8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="2_8제출" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -579,11 +640,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_7제출\이미지" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_7_afternoon" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_7" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_6_afternoon\7교시" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_6_afternoon" />
-      <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -598,27 +659,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tweepy_practice">
-    <configuration name="open_api_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_7_afternoon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7_afternoon/open_api_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="open_api_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.open_api_image">
+    <configuration name="open_api_image (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -637,26 +679,45 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="r" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="open_api_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_7제출/이미지" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/r.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7제출/이미지/open_api_image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tweepy_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="open_api_image_produce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_7제출/이미지" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7제출/이미지/open_api_image_produce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="seoul" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -669,45 +730,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_8/tweepy_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_8/seoul.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="web_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="seoul_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_7_afternoon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7_afternoon/web_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_8/seoul_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.web_test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.open_api_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.open_api_image" />
-      <item index="3" class="java.lang.String" itemvalue="Python.r" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tweepy_practice" />
+      <item index="0" class="java.lang.String" itemvalue="Python.seoul" />
+      <item index="1" class="java.lang.String" itemvalue="Python.seoul_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.open_api_image_produce" />
+      <item index="3" class="java.lang.String" itemvalue="Python.open_api_image" />
+      <item index="4" class="java.lang.String" itemvalue="Python.open_api_image (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tweepy_practice" />
-        <item index="1" class="java.lang.String" itemvalue="Python.r" />
-        <item index="2" class="java.lang.String" itemvalue="Python.open_api_image" />
-        <item index="3" class="java.lang.String" itemvalue="Python.open_api_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.web_test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.open_api_image" />
+        <item index="1" class="java.lang.String" itemvalue="Python.open_api_image (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.open_api_image_produce" />
+        <item index="3" class="java.lang.String" itemvalue="Python.seoul_test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.seoul" />
       </list>
     </recent_temporary>
   </component>
@@ -729,14 +790,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28947368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28947368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14563107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -766,63 +826,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_5/Regular_expression_import_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_5제출/1월3일정규식실습.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="102" column="25" lean-forward="false" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6/urlib_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6/urlib_korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6/oh.txt" />
-    <entry file="file://$PROJECT_DIR$/2_6/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6_afternoon/q1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6_afternoon/q2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6_afternoon/q3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_6/Regular_express_b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -876,6 +879,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,29 +1080,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python36/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3743">
-          <caret line="222" column="0" lean-forward="false" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_7_afternoon/image.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_7_afternoon/open_api_image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="7" column="60" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,6 +1109,104 @@
         <state relative-caret-position="2185">
           <caret line="0" column="20657" lean-forward="false" selection-start-line="0" selection-start-column="20657" selection-end-line="0" selection-end-column="20657" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1284" column="0" lean-forward="false" selection-start-line="1284" selection-start-column="0" selection-end-line="1284" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_8/oh.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1235">
+          <caret line="1319" column="0" lean-forward="false" selection-start-line="1319" selection-start-column="0" selection-end-line="1319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_8/seoul_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_8/oh2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_7제출/크롤링/open_api_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_8/seoul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" column="59" lean-forward="false" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_7제출/이미지/image4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_7제출/이미지/open_api_image_produce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_7_afternoon/open_api_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_7제출/이미지/open_api_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
