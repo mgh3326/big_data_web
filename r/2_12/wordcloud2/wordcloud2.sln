@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "wordcloud2", "wordcloud2\wordcloud2.rxproj", "{79BA1B64-DDB6-4A7E-B627-227D9A8E6330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BA1B64-DDB6-4A7E-B627-227D9A8E6330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BA1B64-DDB6-4A7E-B627-227D9A8E6330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BA1B64-DDB6-4A7E-B627-227D9A8E6330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BA1B64-DDB6-4A7E-B627-227D9A8E6330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A0D274-B3AB-420E-8558-7095EAEA6E39}
+	EndGlobalSection
+EndGlobal
