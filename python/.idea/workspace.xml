@@ -2,166 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b511ef9-4a4c-4dca-af96-f090e35ee88f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../html/layout_major.html" afterPath="$PROJECT_DIR$/../html/layout_major.html" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_100홀수의합순서도.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/Penguins.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/Penguins2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/apple.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/html 5 보고서 1_29_제출_문광현.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/mango.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/pre.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/q1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/q2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/q3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/q4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/q5.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/q6.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1_29_제출_문광현/순서도과제.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1일차실습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/1장 연습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/20180125 문광현.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/2장연습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/[Content_Types].xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/_rels/presentation.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/media/image1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/media/image2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/notesMasters/_rels/notesMaster1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/notesMasters/notesMaster1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/notesSlides/_rels/notesSlide1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/notesSlides/_rels/notesSlide2.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/notesSlides/notesSlide1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/notesSlides/notesSlide2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/presProps.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/presentation.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout10.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout11.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout2.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout3.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout4.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout5.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout6.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout7.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout8.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/_rels/slideLayout9.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout10.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideLayouts/slideLayout9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideMasters/_rels/slideMaster1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slideMasters/slideMaster1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/_rels/slide1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/_rels/slide2.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/_rels/slide3.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/_rels/slide4.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/_rels/slide5.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/slide1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/slide2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/slide3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/slide4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/slides/slide5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/tableStyles.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/theme/theme1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/theme/theme2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/ppt/viewProps.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/unicode_table.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/~$2장연습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/문광현 소공_답2_문광현_오전문제.ppt.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/소공_답2_문광현.ppt.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/소공_답2_문광현_오전문제.ppt.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/순서도과제.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../html연습문제/유스케이스문제.docx" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_13/append_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_13/beautifulsoup_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2_13/past_weather.py" />
+      <change beforePath="$PROJECT_DIR$/../_config.yml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../python기본퀴즈/1월30일_연습문제2.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../python기본퀴즈/거북이2문제.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../python기본퀴즈/기본문법퀴즈.pptx" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../발표/BMHANNA_11yrs_ttf.ttf" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../발표/첫발표.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_100홀수의합순서도.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/Penguins.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/Penguins2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/apple.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/html 5 보고서 1_29_제출_문광현.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/mango.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/pre.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q5.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/q6.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1_29_제출_문광현/순서도과제.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1일차실습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/1장 연습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/20180125 문광현.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/2장연습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/[Content_Types].xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/_rels/presentation.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/media/image1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/media/image2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesMasters/_rels/notesMaster1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesMasters/notesMaster1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/_rels/notesSlide1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/_rels/notesSlide2.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/notesSlide1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/notesSlides/notesSlide2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/presProps.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/presentation.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout10.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout11.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout2.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout3.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout4.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout5.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout6.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout7.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout8.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/_rels/slideLayout9.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout10.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideLayouts/slideLayout9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideMasters/_rels/slideMaster1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slideMasters/slideMaster1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide1.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide2.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide3.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide4.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/_rels/slide5.xml.rels" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/slides/slide5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/tableStyles.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/theme/theme1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/theme/theme2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/ppt/viewProps.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/unicode_table.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/~$2장연습문제.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/문광현 소공_답2_문광현_오전문제.ppt.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/소공_답2_문광현.ppt.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/소공_답2_문광현_오전문제.ppt.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/순서도과제.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../연습문제/유스케이스문제.docx" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -245,6 +92,7 @@
     <SUITE FILE_PATH="coverage/python$while_q_2_for.coverage" NAME="while_q_2_for Coverage Results" MODIFIED="1517469030215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1_제출" />
     <SUITE FILE_PATH="coverage/python$m_q1.coverage" NAME="m_q1 Coverage Results" MODIFIED="1517443836978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$while_q_4_for.coverage" NAME="while_q_4_for Coverage Results" MODIFIED="1517469249317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1_제출" />
+    <SUITE FILE_PATH="coverage/python$past_weather.coverage" NAME="past_weather Coverage Results" MODIFIED="1518493783068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_13" />
     <SUITE FILE_PATH="coverage/python$r.coverage" NAME="r Coverage Results" MODIFIED="1518051193298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$p10.coverage" NAME="p10 Coverage Results" MODIFIED="1517877532842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6" />
     <SUITE FILE_PATH="coverage/python$for_sum.coverage" NAME="for_sum Coverage Results" MODIFIED="1517452928411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
@@ -253,6 +101,7 @@
     <SUITE FILE_PATH="coverage/python$pelicana_c.coverage" NAME="pelicana_c Coverage Results" MODIFIED="1518162216545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_9" />
     <SUITE FILE_PATH="coverage/python$p4.coverage" NAME="p4 Coverage Results" MODIFIED="1517875798413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6" />
     <SUITE FILE_PATH="coverage/python$q10.coverage" NAME="q10 Coverage Results" MODIFIED="1517372836296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
+    <SUITE FILE_PATH="coverage/python$pelicana_c__1_.coverage" NAME="pelicana_c (1) Coverage Results" MODIFIED="1518494452375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_9제출/페리카나" />
     <SUITE FILE_PATH="coverage/python$p5_4.coverage" NAME="p5_4 Coverage Results" MODIFIED="1517458570640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
     <SUITE FILE_PATH="coverage/python$class_constructor.coverage" NAME="class_constructor Coverage Results" MODIFIED="1517797117344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_5" />
     <SUITE FILE_PATH="coverage/python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1517380108364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_31_afternoon" />
@@ -283,6 +132,7 @@
     <SUITE FILE_PATH="coverage/python$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1517545640223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_2_afternoon" />
     <SUITE FILE_PATH="coverage/python$Regular_express_b.coverage" NAME="Regular_express_b Coverage Results" MODIFIED="1517881152969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_6" />
     <SUITE FILE_PATH="coverage/python$relation_operator.coverage" NAME="relation_operator Coverage Results" MODIFIED="1517289797224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$beautifulsoup_test.coverage" NAME="beautifulsoup_test Coverage Results" MODIFIED="1518507290978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_13" />
     <SUITE FILE_PATH="coverage/python$11h_p2.coverage" NAME="11h_p2 Coverage Results" MODIFIED="1517452790816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1" />
     <SUITE FILE_PATH="coverage/python$double_for.coverage" NAME="double_for Coverage Results" MODIFIED="1517463069770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_1 _afternoon" />
     <SUITE FILE_PATH="coverage/python$seoul_test.coverage" NAME="seoul_test Coverage Results" MODIFIED="1518064200079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_8" />
@@ -340,11 +190,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="open_api_image.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_7_afternoon/open_api_image.py">
+      <file leaf-file-name="past_weather.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_13/past_weather.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="457">
+              <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="15" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -352,11 +202,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seoul.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_8/seoul.py">
+      <file leaf-file-name="beautifulsoup_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_13/beautifulsoup_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="40" column="59" lean-forward="false" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+            <state relative-caret-position="64">
+              <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -364,8 +214,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="image4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_7제출/이미지/image4.html">
+      <file leaf-file-name="append_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_13/append_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -374,82 +224,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="open_api_image.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_7제출/이미지/open_api_image.py">
+      <file leaf-file-name="frame.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python36/Lib/site-packages/pandas/core/frame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pelicana.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_9/pelicana.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pelicana_c.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_9/pelicana_c.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="open_api_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_9/open_api_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seoul_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_8/seoul_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="oh2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_8/oh2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="190">
+              <caret line="6419" column="0" lean-forward="false" selection-start-line="6419" selection-start-column="0" selection-end-line="6419" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python36/Lib/urllib/request.py">
+      <file leaf-file-name="pelicana_c.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_9제출/페리카나/pelicana_c.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24586">
-              <caret line="1319" column="0" lean-forward="false" selection-start-line="1319" selection-start-column="0" selection-end-line="1319" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="312">
+              <caret line="31" column="25" lean-forward="true" selection-start-line="30" selection-start-column="85" selection-end-line="31" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -489,7 +281,12 @@
       <find>pclist</find>
       <find>find_all</find>
       <find>listbox</find>
+      <find>count</find>
       <find>html</find>
+      <find>urlopen</find>
+      <find>table</find>
+      <find>result</find>
+      <find>ohoh</find>
     </findStrings>
     <replaceStrings>
       <replace>and</replace>
@@ -517,9 +314,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2_6/urlib_korean.py" />
-        <option value="$PROJECT_DIR$/2_6/oh.txt" />
-        <option value="$PROJECT_DIR$/2_6/os.py" />
         <option value="$PROJECT_DIR$/2_6_afternoon/q1.py" />
         <option value="$PROJECT_DIR$/2_6_afternoon/q2.py" />
         <option value="$PROJECT_DIR$/2_6/Regular_express_b.py" />
@@ -568,6 +362,9 @@
         <option value="$PROJECT_DIR$/2_7제출/이미지/open_api_image.py" />
         <option value="$PROJECT_DIR$/2_9/pelicana.py" />
         <option value="$PROJECT_DIR$/2_9/pelicana_c.py" />
+        <option value="$PROJECT_DIR$/2_13/past_weather.py" />
+        <option value="$PROJECT_DIR$/2_13/append_test.py" />
+        <option value="$PROJECT_DIR$/2_13/beautifulsoup_test.py" />
       </list>
     </option>
   </component>
@@ -577,11 +374,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="379" />
-    <option name="y" value="-8" />
-    <option name="width" value="640" />
-    <option name="height" value="994" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="167" />
+    <option name="y" value="45" />
+    <option name="width" value="1134" />
+    <option name="height" value="992" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -611,33 +408,7 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_7_afternoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_7제출" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_7제출" type="462c0819:PsiDirectoryNode" />
-              <item name="이미지" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_8제출" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_9" type="462c0819:PsiDirectoryNode" />
+              <item name="2_13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -656,11 +427,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_13" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_7제출\이미지" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_7_afternoon" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_7" />
       <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_6_afternoon\7교시" />
-      <recent name="C:\Users\student\Dropbox\빅데이터웹개발자료\github\python\2_6_afternoon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -675,59 +446,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pelicana_c">
-    <configuration name="open_api_image (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.beautifulsoup_test">
+    <configuration name="beautifulsoup_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_7_afternoon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7_afternoon/open_api_image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_13/beautifulsoup_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="open_api_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="past_weather" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_7제출/이미지" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7제출/이미지/open_api_image.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="open_api_image_produce" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_7제출/이미지" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7제출/이미지/open_api_image_produce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_13/past_weather.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -747,6 +499,25 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_9/pelicana.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pelicana_c (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_9제출/페리카나" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_9제출/페리카나/pelicana_c.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -772,19 +543,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.open_api_image_produce" />
-      <item index="1" class="java.lang.String" itemvalue="Python.open_api_image" />
-      <item index="2" class="java.lang.String" itemvalue="Python.open_api_image (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pelicana" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pelicana_c" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pelicana" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pelicana_c" />
+      <item index="2" class="java.lang.String" itemvalue="Python.past_weather" />
+      <item index="3" class="java.lang.String" itemvalue="Python.beautifulsoup_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pelicana_c (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pelicana_c" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pelicana" />
-        <item index="2" class="java.lang.String" itemvalue="Python.open_api_image" />
-        <item index="3" class="java.lang.String" itemvalue="Python.open_api_image (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.open_api_image_produce" />
+        <item index="0" class="java.lang.String" itemvalue="Python.beautifulsoup_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pelicana_c (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.past_weather" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pelicana_c" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pelicana" />
       </list>
     </recent_temporary>
   </component>
@@ -805,29 +576,51 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.805492" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28947368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14805825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117313914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3979933" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28947368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13511327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3979933" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -842,42 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_6_afternoon/q5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6_afternoon/q7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6_afternoon/q8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_6_afternoon/read_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python36/Lib/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_6_afternoon/binary_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1106,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24244">
           <caret line="1284" column="0" lean-forward="false" selection-start-line="1284" selection-start-column="0" selection-end-line="1284" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1114,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1131,7 +886,7 @@
         <state relative-caret-position="532">
           <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1156,7 +911,7 @@
         <state relative-caret-position="703">
           <caret line="40" column="59" lean-forward="false" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1175,17 +930,17 @@
         <state relative-caret-position="1235">
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2_7제출/이미지/open_api_image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="722">
           <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1195,17 +950,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2_9/pelicana.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="1178">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1213,7 +968,53 @@
     <entry file="file://$PROJECT_DIR$/2_9/pelicana_c.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="6419" column="0" lean-forward="false" selection-start-line="6419" selection-start-column="0" selection-end-line="6419" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_13/append_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_13/past_weather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_9제출/페리카나/pelicana_c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="30" selection-start-column="85" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_13/beautifulsoup_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
