@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "Analize_data", "Analize_data\Analize_data.rxproj", "{3E2CFF28-55F5-461A-9011-A534496D5543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2CFF28-55F5-461A-9011-A534496D5543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2CFF28-55F5-461A-9011-A534496D5543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2CFF28-55F5-461A-9011-A534496D5543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2CFF28-55F5-461A-9011-A534496D5543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F6777E9-7A0C-4495-838A-E14DAF4BF42E}
+	EndGlobalSection
+EndGlobal
