@@ -78,3 +78,14 @@ alt text는 그림을 불러오지 못했을 때 대신 보여줄 텍스트를 �
 
 
 ![alt text](http://placehold.it/350x150)
+
+링크
+----
+
+http 주소를 직접 사용한다.
+
+http://google.co.kr
+
+단어등에 하이퍼 링크를 붙인다. [] 안에 단어를 넣고 주소는 () 안에 넣는다.
+
+[구글](http://google.co.kr)
