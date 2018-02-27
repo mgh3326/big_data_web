@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "Rsubway", "Rsubway\Rsubway.rxproj", "{7DFAC493-BD8F-4F0C-BFDC-4D70967F3FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFAC493-BD8F-4F0C-BFDC-4D70967F3FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFAC493-BD8F-4F0C-BFDC-4D70967F3FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFAC493-BD8F-4F0C-BFDC-4D70967F3FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFAC493-BD8F-4F0C-BFDC-4D70967F3FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11FB3B4A-4C8A-459B-9AD5-664606785F9A}
+	EndGlobalSection
+EndGlobal
