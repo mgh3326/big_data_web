@@ -29,6 +29,10 @@
 
 <hr/>
 
+![](images/책.JPG)
+<br>
+
+![](images/우수상.JPG)
 ## auto github update introduce
 
 아래 다운로드 바로가기 누르면 my.sh 다운 받아서 사용할수 있게 해뒀어요
